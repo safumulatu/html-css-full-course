@@ -1,0 +1,12 @@
+.container span {
+    color: red;
+    font-size: 40px;
+}
+
+.container .blue {
+    color: blue;
+}
+
+.container p {
+    color: grey;
+}
