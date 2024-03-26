@@ -1,0 +1,54 @@
+/* h1 {
+    color: blue;
+}
+
+h2 {
+    color: green;
+}
+
+p {
+    color: grey;
+} */
+
+
+/* all in one */
+
+h1,
+h2,
+p {
+    color: green;
+}
+
+
+/* id selecter */
+
+#title {
+    color: rgb(209, 201, 201);
+    background-color: black;
+}
+
+#subheading {
+    color: aquamarine;
+    background-color: grey;
+}
+
+
+/* class selecter */
+
+.green {
+    background-color: rgb(24, 23, 24);
+    color: rgb(92, 255, 47);
+}
+
+.red {
+    background-color: red;
+    color: brown;
+}
+
+
+/* working wit div */
+
+div {
+    color: red;
+    background-color: black;
+}
